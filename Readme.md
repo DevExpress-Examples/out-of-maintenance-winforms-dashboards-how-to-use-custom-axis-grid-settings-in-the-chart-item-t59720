@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DesignerSample/Form1.cs) (VB: [Form1.vb](./VB/DesignerSample/Form1.vb))
+* [Program.cs](./CS/DesignerSample/Program.cs) (VB: [Program.vb](./VB/DesignerSample/Program.vb))
+<!-- default file list end -->
 # WinForms Dashboards - How to use custom axis grid settings in the Chart Item
 
 
