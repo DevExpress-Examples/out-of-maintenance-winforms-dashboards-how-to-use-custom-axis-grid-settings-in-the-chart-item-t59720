@@ -4,7 +4,7 @@
 * [Form1.cs](./CS/DesignerSample/Form1.cs) (VB: [Form1.vb](./VB/DesignerSample/Form1.vb))
 * [Program.cs](./CS/DesignerSample/Program.cs) (VB: [Program.vb](./VB/DesignerSample/Program.vb))
 <!-- default file list end -->
-# How to Customize the Chart Item's Axis Grid Settings
+# Dashboard for WinForms - How to Customize the Chart Item's Axis Grid Settings
 
 
 The Dashboard Chart Item automatically calculate most of the axis grid settings, such as the [GridSpacing](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.ScaleGridOptionsBase.GridSpacing).
