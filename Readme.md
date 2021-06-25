@@ -18,7 +18,7 @@ This example demonstrates how to customize grid settings at runtime, so that on
 
 ![screenshot](/images/screenshot.png)
 
-See also:
+## Documentation
 
 * [Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019)
 
