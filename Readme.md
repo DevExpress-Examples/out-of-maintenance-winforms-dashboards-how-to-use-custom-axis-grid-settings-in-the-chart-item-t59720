@@ -27,5 +27,6 @@ This example demonstrates how to customize grid settings at runtime, so that on
 
 * [Access to Underlying Controls](https://docs.devexpress.com/Dashboard/18019)
 
+## More Examples
 
-
+* [Web Dashboard - How to make the Chart Item display only whole numbers in the Y axis' labels](https://github.com/DevExpress-Examples/aspxdashboard-how-to-load-and-save-dashboards-from-to-a-database-t386418)
